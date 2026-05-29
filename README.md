@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia, automação de processos e desenvolvimento de sis
 
 ### 🚀 Sobre mim
 
-- 🎓 Graduando em ADS (formação prevista para novembro de 2026).
+- 🎓 Graduando em ADS (formação prevista para agosto de 2027).
 - 💻 Experiência prática com **Java**, **Spring Boot**, **Streams API**, **Maven**, **SQL** e **PostgreSQL** .
 - ⚙️ Desenvolvendo projetos de automação, manipulação de dados (web scraping) e integrações de sistemas.
 - 🧠 Focado no aprendizado contínuo de algoritmos e aprimoramento lógico de código.
