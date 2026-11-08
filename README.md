@@ -52,7 +52,7 @@ Projetos acadêmicos e práticos utilizando:
 
 Confira meus projetos e minha evolução profissional:
 
-🔗 [Acessar meu portfólio](https://leonardoroeda.github.io/portfolio)
+🔗  [https://github.com/LeonardoRoeda/portifolio]
 
 ## Contato
 
