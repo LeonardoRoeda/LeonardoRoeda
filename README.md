@@ -6,8 +6,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvim
 
 Tenho experiência prática com Java, Spring Boot, SQL, PostgreSQL, Maven e Git. Também desenvolvo aplicações Python voltadas à automação, processamento de dados e interfaces desktop.
 
-🎓 ADS — formação prevista para agosto de 2027  
-💻 Foco atual: Java, Spring Boot, APIs REST e integração com bancos de dados  
+🎓 ADS — formação prevista para Dezembro de 2026  
+💻 Foco atual: Python,Java, Spring Boot, APIs REST e integração com bancos de dados  
 🧠 Interesse em arquitetura de software, lógica de programação e automação  
 📚 Aprendizado contínuo por meio de projetos práticos  
 
